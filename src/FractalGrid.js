@@ -42,8 +42,6 @@ export default function FractalGrid() {
             "https://source.unsplash.com/GZjXMTQAfB4",
             "https://source.unsplash.com/Y0nU6dqDCbY",
             "https://source.unsplash.com/M7WlI-YPWt0",
-            // "https://source.unsplash.com/c6g-26myD34",
-            // "https://source.unsplash.com/05KfSHkfupg",
         ],
         [
             "https://source.unsplash.com/6pZ1CR95-LE",
