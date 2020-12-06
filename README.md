@@ -1,6 +1,6 @@
 #### Dynamic, Fractal Image Grids Within Constant-sized Containers
 
-![Demo Image 01](https://github.com/iambryanhaney/fractal-grid/blob/master/fractal_grid.jpg)
+![Demo Image 01](https://github.com/iambryanhaney/fractal-grid/blob/master/fractal_grid.png)
   
 A detailed explanation of the mechanics: 
   
